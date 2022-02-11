@@ -122,3 +122,6 @@ ql repo https://github.com/smiek2121/scripts.git "jd_|gua_" "" "ZooFaker_Necklac
 |      `JD_TRY_GOOD_FILTERS`  |   京东试用<br>商品名过滤 | 非必须 |  比如不申请教程@软件@手机卡， `@`分割，脚本已自带一些过滤 |
 |      `JD_TRY_PRICE`         |   京东试用<br>商品价格过滤   | 非必须 |  默认50 |
 
+
+
+
